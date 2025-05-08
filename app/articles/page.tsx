@@ -23,7 +23,7 @@ import {
   NextPageButton,
   PreviousPageButton,
 } from "@/components/Paginations";
-import { Badge } from "@/components/Badge";"
+import { Badge } from "@/components/Badge";
 import { useRouter } from "next/navigation";
 
 type SearchInput = {
